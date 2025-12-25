@@ -8,6 +8,9 @@
             <sparkle:version>0.9.2</sparkle:version>
             <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>
+                https://github.com/Static-o2/sparkle-test/releases/tag/v0.9.2
+            </sparkle:releaseNotesLink>
             <enclosure url="https://github.com/Static-o2/sparkle-test/releases/download/v0.9.2/SparkleTestApp.dmg" length="2710884" type="application/octet-stream" sparkle:edSignature="s2KlIAlqcVUQgPBJ+83y7DvXa9V9lI7nSe4r+HMzlhHHC9lT4m4JBPVoo5D9bBiHNuw6OecBnp/bGL/9QVtMCA=="/>
         </item>
     </channel>
