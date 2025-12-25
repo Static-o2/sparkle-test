@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sparkleupdatetest</title>
+        <item>
+            <title>0.9.1</title>
+            <pubDate>Thu, 25 Dec 2025 12:15:04 -0500</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Static-o2/sparkle-test/releases/download/v0.9.1/sparkletestapp.dmg" length="2710850" type="application/octet-stream" sparkle:edSignature="KQslg/cqCe4TTmiWFRhJCByN4WhIPaeEqGmUaMO/FtEHdK6h5jzPGFooYPTDCzrRUY6NWiuMxb6SSa0sEKjKBw=="/>
+        </item>
+    </channel>
+</rss>
