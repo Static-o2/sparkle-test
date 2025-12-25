@@ -3,12 +3,12 @@
     <channel>
         <title>sparkleupdatetest</title>
         <item>
-            <title>0.9.1</title>
-            <pubDate>Thu, 25 Dec 2025 12:15:04 -0500</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <title>0.9.2</title>
+            <pubDate>Thu, 25 Dec 2025 12:50:16 -0500</pubDate>
+            <sparkle:version>0.9.2</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Static-o2/sparkle-test/releases/download/v0.9.1/sparkletestapp.dmg" length="2710850" type="application/octet-stream" sparkle:edSignature="KQslg/cqCe4TTmiWFRhJCByN4WhIPaeEqGmUaMO/FtEHdK6h5jzPGFooYPTDCzrRUY6NWiuMxb6SSa0sEKjKBw=="/>
+            <enclosure url="https://github.com/Static-o2/sparkle-test/releases/download/v0.9.2/SparkleTestApp.dmg" length="2710884" type="application/octet-stream" sparkle:edSignature="s2KlIAlqcVUQgPBJ+83y7DvXa9V9lI7nSe4r+HMzlhHHC9lT4m4JBPVoo5D9bBiHNuw6OecBnp/bGL/9QVtMCA=="/>
         </item>
     </channel>
 </rss>
